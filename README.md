@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Adam 👋
 
-<!--
-**Adam-PCS/Adam-PCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering student in electronics and applications at ENSEA, and currently an apprentice at Thales.
 
-Here are some ideas to get you started:
+## About me
+I'm really interested in the world of computing as a whole, especially PC hardware, custom builds, microprocessor architecture, and the evolution of electronic components.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More generally, I enjoy everything related to computers — understanding how machines work, how technologies evolve, and how hardware, systems and software all connect together.
+
+Alongside my studies and apprenticeship, I also work on PC building, diagnostics, repair, and hardware-related advice.
+
+## Current focus
+- learning through real technical projects
+- improving my skills in web development, infrastructure and hardware
+- working on future personal tech projects and service platforms
+
+## Contact
+- LinkedIn: [adam-azri](https://www.linkedin.com/in/adam-azri/)
+- Instagram: [adaam_az](https://www.instagram.com/adaam_az/)
