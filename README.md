@@ -1,11 +1,11 @@
 # Hi, I'm Adam 👋
 
-I'm an engineering student in electronics and applications at ENSEA, and currently an apprentice at Thales.
+I'm an engineering student in electronics and applications at ENSEA, currently working as an apprentice at Thales.
 
 ## About me
 I'm really interested in the world of computing as a whole, especially PC hardware, custom builds, microprocessor architecture, and the evolution of electronic components.
 
-More generally, I enjoy everything related to computers — understanding how machines work, how technologies evolve, and how hardware, systems and software all connect together.
+Overall, I'm curious about everything related to computers - understanding how machines work, how technologies evolve, and how hardware, systems and software all connect together.
 
 Alongside my studies and apprenticeship, I also work on PC building, diagnostics, repair, and hardware-related advice.
 
@@ -16,4 +16,3 @@ Alongside my studies and apprenticeship, I also work on PC building, diagnostics
 
 ## Contact
 - LinkedIn: [adam-azri](https://www.linkedin.com/in/adam-azri/)
-- Instagram: [adaam_az](https://www.instagram.com/adaam_az/)
